@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.crudetech</groupId>
+  <artifactId>graphics2d</artifactId>
+  <versioning>
+    <versions>
+      <version>0.24-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150904164133</lastUpdated>
+  </versioning>
+</metadata>

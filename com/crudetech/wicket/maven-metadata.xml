@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.crudetech</groupId>
+  <artifactId>wicket</artifactId>
+  <versioning>
+    <versions>
+      <version>0.24-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150904164147</lastUpdated>
+  </versioning>
+</metadata>
